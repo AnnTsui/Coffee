@@ -1,0 +1,8 @@
+D:\Desktop\CoffeeMachine\CoffeeMachineTests\bin\Debug\CoffeeMachineTests.dll
+D:\Desktop\CoffeeMachine\CoffeeMachineTests\bin\Debug\CoffeeMachineTests.pdb
+D:\Desktop\CoffeeMachine\CoffeeMachineTests\bin\Debug\CoffeeMachine.dll
+D:\Desktop\CoffeeMachine\CoffeeMachineTests\bin\Debug\CoffeeMachine.pdb
+D:\Desktop\CoffeeMachine\CoffeeMachineTests\obj\Debug\CoffeeMachineTests.csprojResolveAssemblyReference.cache
+D:\Desktop\CoffeeMachine\CoffeeMachineTests\obj\Debug\CoffeeMachineTests.dll
+D:\Desktop\CoffeeMachine\CoffeeMachineTests\obj\Debug\CoffeeMachineTests.pdb
+D:\Desktop\CoffeeMachine\CoffeeMachineTests\bin\Debug\CoffeeMachineTests.dll.config

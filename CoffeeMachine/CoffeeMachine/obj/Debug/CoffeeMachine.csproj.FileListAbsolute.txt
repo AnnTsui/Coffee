@@ -1,0 +1,27 @@
+d:\Documents\Visual Studio 2013\Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2013\Projects\CoffeeMachine\CoffeeMachine\bin\CoffeeMachine.dll.config
+d:\Documents\Visual Studio 2013\Projects\CoffeeMachine\CoffeeMachine\bin\CoffeeMachine.dll
+d:\Documents\Visual Studio 2013\Projects\CoffeeMachine\CoffeeMachine\bin\CoffeeMachine.pdb
+d:\Documents\Visual Studio 2013\Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.dll
+d:\Documents\Visual Studio 2013\Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.pdb
+d:\Documents\Visual Studio 2013\Projects\CoffeeMachine\CoffeeMachine\bin\nunit.framework.dll
+d:\Documents\Visual Studio 2013\Projects\CoffeeMachine\CoffeeMachine\bin\nunit.framework.pdb
+d:\Documents\Visual Studio 2013\Projects\CoffeeMachine\CoffeeMachine\bin\nunit.framework.xml
+C:\Users\Ann Tsui\Documents\Interest\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.csprojResolveAssemblyReference.cache
+C:\Users\Ann Tsui\Documents\Interest\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.dll
+C:\Users\Ann Tsui\Documents\Interest\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.pdb
+C:\Users\Ann Tsui\Documents\Interest\CoffeeMachine\CoffeeMachine\bin\CoffeeMachine.dll.config
+C:\Users\Ann Tsui\Documents\Interest\CoffeeMachine\CoffeeMachine\bin\CoffeeMachine.dll
+C:\Users\Ann Tsui\Documents\Interest\CoffeeMachine\CoffeeMachine\bin\CoffeeMachine.pdb
+C:\Users\Ann Tsui\Documents\Interest\CoffeeMachine\CoffeeMachine\bin\nunit.framework.dll
+C:\Users\Ann Tsui\Documents\Interest\CoffeeMachine\CoffeeMachine\bin\nunit.framework.pdb
+C:\Users\Ann Tsui\Documents\Interest\CoffeeMachine\CoffeeMachine\bin\nunit.framework.xml
+D:\Desktop\CoffeeMachine\CoffeeMachine\bin\CoffeeMachine.dll.config
+D:\Desktop\CoffeeMachine\CoffeeMachine\bin\CoffeeMachine.dll
+D:\Desktop\CoffeeMachine\CoffeeMachine\bin\CoffeeMachine.pdb
+D:\Desktop\CoffeeMachine\CoffeeMachine\bin\nunit.framework.dll
+D:\Desktop\CoffeeMachine\CoffeeMachine\bin\nunit.framework.pdb
+D:\Desktop\CoffeeMachine\CoffeeMachine\bin\nunit.framework.xml
+D:\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.csprojResolveAssemblyReference.cache
+D:\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.dll
+D:\Desktop\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.pdb
